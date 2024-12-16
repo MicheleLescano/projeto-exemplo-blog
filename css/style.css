@@ -1,0 +1,65 @@
+html {
+    scroll-behavior: smooth;
+}
+
+nav, footer {
+    background-color: rgb(255, 0, 106);
+    text-align: center;
+    padding: 40px 0px 40px 0px;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: white;
+    font-size: 25pt;
+    margin: 0px 20px 0px 20px;
+    background-color: palevioletred;
+    padding: 10px;
+    border-radius:15px 0px 15px 0px;
+    transition: 0.5s;
+}
+
+.nav-item:hover{
+    box-shadow:8px 8px 5px yellow ;
+    color: yellow;
+    transition: 0.5s;
+}
+
+h1 {
+    font-size: 26pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+  h1:hover  { 
+    text-shadow: 8px 8px 5px purple;
+    transition: 0.5s;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+    margin: 40px 20px 40px 20px;
+}p {
+    text-indent: 50pt;
+    font-size: 16pt;
+    text-align: justify;
+}
+
+img {
+    width: 50px;
+    margin: opx 40px 0px 40px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+hr {
+    width: 80%;
+}
+
+
+
+
+
